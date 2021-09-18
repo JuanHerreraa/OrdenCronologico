@@ -1,0 +1,27 @@
+body{
+    background-color: #444444;
+}
+
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Segoe UI';
+    background-color: white;
+    border: black 2px solid;
+    padding: 4px;
+}
+
+h2{
+    background-color: white;
+    border: black 2px solid;
+    font-family: 'Segoe UI';
+    text-align: center;
+}
+
+h2:hover a{
+    background-color: black;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
