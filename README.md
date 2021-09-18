@@ -1,3 +1,4 @@
 # OrdenCronologico
 Orden Cronologico de Avenger
-Probando animaciones en pagina
+
+Página HTML animada que muestra la línea de tiempo de las películas que involucran a Los Vengadores.
